@@ -18,12 +18,19 @@
   font-size: 2em;
 }
 .emailMK{
-  background-color: #ff0000;
-  color: white;
   margin-top: 20px;
+  border-radius: 25px;
+}
+.btn-lg{
+  border-radius: 25px;
+  background-color: red;
 }
 .emailLink{
+  color: white;
   font-size: 1em;
+}
+.emailLink:hover{
+  color: lightgrey;
 }
 .tableSect{
   margin-top: 100px;
@@ -36,10 +43,10 @@
   margin-bottom: 25px;
 }
 th{
-  font-size: 2em;
+  font-size: 1.5em;
 }
 td{
-  font-size: 1.75em;
+  font-size: 1em;
 }
 footer{
   height:100px;
